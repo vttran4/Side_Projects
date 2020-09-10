@@ -1,1 +1,1 @@
-# Please check out my personal Data Science projects
+# Personal Data Science projects
